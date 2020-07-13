@@ -1,0 +1,15 @@
+body{
+  margin:0;
+  font-family: Arial;
+  font-size: 17px
+  color:926239;
+  line-height: 1.6;
+}
+
+#arch{
+  background-image: url('../img/arch.jpg');
+  background-size: cover;
+  background-position: center;
+  height:100vh;
+
+}
